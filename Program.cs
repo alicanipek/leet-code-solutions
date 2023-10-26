@@ -1,9 +1,10 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-var t = ShuffleTheArray.Shuffle(new int[] {1,2,3,4,4,3,2,1}, 4);
+var c = PascalsTriangleII.GetRow(4);
 
-for (int i = 0; i < t.Length; i++)
+for (int i = 0; i < c.Count; i++)
 {
-System.Console.WriteLine(t[i]);
-
+    System.Console.WriteLine(c[i]);
 }
+
+
