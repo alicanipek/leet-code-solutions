@@ -1,3 +1,3 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-System.Console.WriteLine(ValidPalindrome.IsPalindrome("ananas"));
+FindMode.FindModeSolution(new TreeNode(1, null, new TreeNode(2, new TreeNode(2), null)));
