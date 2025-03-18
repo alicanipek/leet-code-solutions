@@ -1,3 +1,8 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using LeetCodeSolutions.Problems;
 
-FindMode.FindModeSolution(new TreeNode(1, null, new TreeNode(2, new TreeNode(2), null)));
+// GasStation.CanCompleteCircuit(new int[] { 1, 2, 3, 4, 5 }, new int[] { 3, 4, 5, 1, 2 });
+// GasStation.CanCompleteCircuit(new int[] { 2, 3, 4 }, new int[] { 3, 4, 3 });
+
+
+
+MinimumRecolors.Solve("BWWWBB", 6);
